@@ -1,8 +1,4 @@
-# Flask GraphQL application
-
-1. Authentication with jwt
-2. Protected Mutations and Queries
-3. Flask migrate
+# Flask Eventsourcing application
 
 ### Running
 
