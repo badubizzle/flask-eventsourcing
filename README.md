@@ -12,8 +12,6 @@
 1. Create database `make db-upgrade`
 1. Start server `make run`
 
-1. open http://localhost:5000/graphql
-
 ## Running Tests
 
 `make test`
