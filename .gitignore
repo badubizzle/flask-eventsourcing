@@ -6,3 +6,6 @@
 /venv
 /venv2
 .hypothesis
+**/snapshots/*
+evs.db
+config/settings.py
