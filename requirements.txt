@@ -39,7 +39,7 @@ packaging==19.1
 pathlib2==2.3.4
 pluggy==0.12.0
 promise==2.2.1
-py==1.8.0
+py==1.10.0
 pycryptodome==3.8.2
 PyJWT==1.7.1
 pyparsing==2.4.2
