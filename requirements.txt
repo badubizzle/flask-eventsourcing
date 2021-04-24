@@ -29,7 +29,7 @@ hypothesis==4.34.0
 idna==2.8
 importlib-metadata==0.19
 itsdangerous==1.1.0
-Jinja2==2.10.1
+Jinja2==2.11.3
 jsonschema==3.0.2
 Mako==1.0.10
 MarkupSafe==1.1.1
